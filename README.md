@@ -1,7 +1,13 @@
 # 🌲 Forest Time-Series Analysis from Sentinel Hub EO Browser
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matuspivovar/EOBrowser_DPZ/master?labpath=Time-series-EO-Browser.ipynb)
-
+<p align="center">
+  <img src="https://www.tuzvo.sk/sites/default/files/logo_tuzvo_farebne.png" height="70" alt="Technical University in Zvolen"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.sav.sk/uploads/users/1/Image/sav_logo_sk_farebne.png" height="70" alt="Institute of Forest Ecology SAS"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ESA_logo.svg/1200px-ESA_logo.svg.png" height="70" alt="ESA Sentinel-2"/>
+</p>
 ## Overview
 
 Educational Jupyter notebook developed for students of **Geoinformation and
@@ -44,7 +50,7 @@ jupyter notebook Time-series-EO-Browser.ipynb
 
 ## Author
 
-**Matúš Pivovar**
+** M.Sc. et M.Sc. Matúš Pivovar, PhD.**
 GIS & Remote Sensing | Forestry Applications
 [Institute of Forest Ecology SAS](https://ife.sk) · [TUZVO](https://www.tuzvo.sk)
 
